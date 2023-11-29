@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlappyBirdWPF", "Flappy Bird WPF\FlappyBirdWPF.csproj", "{107D19B9-BE0D-4C97-A0DA-B4A43987856B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{107D19B9-BE0D-4C97-A0DA-B4A43987856B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107D19B9-BE0D-4C97-A0DA-B4A43987856B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107D19B9-BE0D-4C97-A0DA-B4A43987856B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107D19B9-BE0D-4C97-A0DA-B4A43987856B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F38111C7-383D-494C-9C8C-19D1E65AE2A5}
+	EndGlobalSection
+EndGlobal

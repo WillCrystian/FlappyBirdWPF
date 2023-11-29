@@ -1,0 +1,26 @@
+﻿<Window x:Class="Flappy_Bird_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Flappy_Bird_WPF"
+        mc:Ignorable="d"
+        Title="Flappy Bird" Height="594" Width="577">
+    <Canvas Name="MyCanvas" Focusable="True" KeyDown="KeyIsDown" KeyUp="KeyIsUp" Background="#FF8ED5EC">
+        <Image Height="145" Width="200" Source="images/clouds.png" Canvas.Top="125" Canvas.Left="70" Name="cloud1" Stretch="Fill" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Image Height="145" Width="200" Source="/Images/clouds2.png" Canvas.Top="211" Canvas.Left="350" Name="cloud2" Stretch="Fill" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+        <Image Height="380" Width="80" Source="images/pipeTop.png" Canvas.Left="200" Canvas.Top="-111" Name="pipeTop1" Stretch="Fill" />
+        <Image Height="380" Width="80" Source="images/pipeBottom.png" Canvas.Left="200" Canvas.Top="404" Name="pipeBottom1" Stretch="Fill" />
+
+        <Image Height="380" Width="80" Source="images/pipeTop.png" Canvas.Left="400" Canvas.Top="-205" Name="pipeTop2" Stretch="Fill"/>
+        <Image Height="380" Width="80" Source="images/pipeBottom.png" Canvas.Left="400" Canvas.Top="310" Name="pipeBottom2" Stretch="Fill"/>
+
+        <Image Height="380" Width="80" Source="images/pipeTop.png" Canvas.Left="600" Canvas.Top="-156" Name="pipeTop3"  Stretch="Fill" />
+        <Image Height="380" Width="80" Source="images/pipeBottom.png" Canvas.Left="600" Canvas.Top="359" Name="pipeBottom3" Stretch="Fill" />
+
+        <Image Name="flappyBird" Height="52" Width="64" Source="images/flappyBird.png" Stretch="Fill" Canvas.Left="44" Canvas.Top="281" Tag="flappyBird" HorizontalAlignment="Left" VerticalAlignment="Center" />
+        <Label Name="txtScore" FontSize="22" FontWeight="ExtraBold" Content="Score: 0"/>
+
+    </Canvas>
+</Window>

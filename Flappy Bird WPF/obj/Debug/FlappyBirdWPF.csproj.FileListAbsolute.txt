@@ -1,0 +1,15 @@
+C:\Users\william.aniceto\source\repos\Flappy Bird WPF\Flappy Bird WPF\bin\Debug\Flappy Bird WPF.exe.config
+C:\Users\william.aniceto\source\repos\Flappy Bird WPF\Flappy Bird WPF\bin\Debug\Flappy Bird WPF.exe
+C:\Users\william.aniceto\source\repos\Flappy Bird WPF\Flappy Bird WPF\bin\Debug\Flappy Bird WPF.pdb
+C:\Users\william.aniceto\source\repos\Flappy Bird WPF\Flappy Bird WPF\obj\Debug\FlappyBirdWPF.csproj.AssemblyReference.cache
+C:\Users\william.aniceto\source\repos\Flappy Bird WPF\Flappy Bird WPF\obj\Debug\MainWindow.g.cs
+C:\Users\william.aniceto\source\repos\Flappy Bird WPF\Flappy Bird WPF\obj\Debug\App.g.cs
+C:\Users\william.aniceto\source\repos\Flappy Bird WPF\Flappy Bird WPF\obj\Debug\Flappy Bird WPF_MarkupCompile.cache
+C:\Users\william.aniceto\source\repos\Flappy Bird WPF\Flappy Bird WPF\obj\Debug\Flappy Bird WPF_MarkupCompile.lref
+C:\Users\william.aniceto\source\repos\Flappy Bird WPF\Flappy Bird WPF\obj\Debug\MainWindow.baml
+C:\Users\william.aniceto\source\repos\Flappy Bird WPF\Flappy Bird WPF\obj\Debug\Flappy Bird WPF.g.resources
+C:\Users\william.aniceto\source\repos\Flappy Bird WPF\Flappy Bird WPF\obj\Debug\Flappy_Bird_WPF.Properties.Resources.resources
+C:\Users\william.aniceto\source\repos\Flappy Bird WPF\Flappy Bird WPF\obj\Debug\FlappyBirdWPF.csproj.GenerateResource.cache
+C:\Users\william.aniceto\source\repos\Flappy Bird WPF\Flappy Bird WPF\obj\Debug\FlappyBirdWPF.csproj.CoreCompileInputs.cache
+C:\Users\william.aniceto\source\repos\Flappy Bird WPF\Flappy Bird WPF\obj\Debug\Flappy Bird WPF.exe
+C:\Users\william.aniceto\source\repos\Flappy Bird WPF\Flappy Bird WPF\obj\Debug\Flappy Bird WPF.pdb
